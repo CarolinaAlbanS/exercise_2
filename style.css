@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.mono{
+    display: inline-block;
+    width: 250px;
+    left: 50px;
+    top: 50px;
+}
+.texto{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    top: 100px;
+    left: 500px;
+    width: 600px;
+    text-align: justify
+}
+.texto > div{
+    margin: 30px;
+    width: 600px;
+    text-align: justify
+}
+#campos{
+
+}
+
+.caja{
+    width: 600px;
+    height: 50px;
+
+}
+.derecha{
+   display: inline-block;
+   
+  
+    
+}
+.izquierda{
+    
+
+}
+.boton{
+
+}
+
+
+.boton > a {
+    color: grey;
+    text-align: center;
+}
+.chekc{
+
+}
+#parrafo{
+
+    text-align: justify;
+}
+.textfinal{
+
+    text-align: justify;
+}
+a {
+    color: rgb(50, 122, 135);
+}
